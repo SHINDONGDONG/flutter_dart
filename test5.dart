@@ -32,7 +32,7 @@ print("현재 내 잔고는 : ${money + acount}");
     print("거짓입니다.");
   }
 
-print("이것은 삼항연산자 : ${s}");
+print("이것은 삼항연산자dd : ${s}");
   
 print(name);
 }
