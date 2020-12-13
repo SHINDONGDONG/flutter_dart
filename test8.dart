@@ -65,6 +65,11 @@ var filterList = list.where((e) => e==2 ); //e!=2;
 print(filterList);
 print("========================where복사=================");
 
+int a = 100;
+var result = a % 3 ; //나머지
+var result2=  a~/3; //몫
+print(result2); 
+
 
 
 }
